@@ -56,4 +56,4 @@ When the application runs:
 ✔ Hibernate auto-creates tables
 ✔ Relationships are mapped with foreign keys
 ✔ Join table is created for many-to-many mapping
---------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------
