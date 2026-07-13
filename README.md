@@ -57,3 +57,5 @@ When the application runs:
 ✔ Relationships are mapped with foreign keys
 ✔ Join table is created for many-to-many mapping
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Author 
